@@ -2,6 +2,11 @@
 
 teste ip
 
+######Campanha LockBit3.0######
+149.28.137.7
+139.180.184.147
+45.32.108.54
+info [.] openjdklab[.]xyz
 
 ######CAMPANHA ANTIGAS######
 187.36.96.130
