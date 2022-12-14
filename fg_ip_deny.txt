@@ -2,6 +2,10 @@
 
 teste ip
 
+######Campanha AVEMARIA ######
+171.22.30.72
+
+
 ######Campanha QAKBOT ######
 45.48.36.226
 81.131.161.131
