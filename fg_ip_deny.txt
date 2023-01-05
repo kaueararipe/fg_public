@@ -2,6 +2,10 @@
 
 teste ip
 
+######Campanha PLAYRANSOMWARE ######
+172.67.176.244
+104.21.43.80
+
 ######Campanha AVEMARIA ######
 171.22.30.72
 
