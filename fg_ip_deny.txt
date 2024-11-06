@@ -1,4 +1,7 @@
-###### Campanha FakeCall (Heimdall)######
+###### Campanha CRON#TRAP (Heimdall)######
+18.208.230.174
+
+###### Campanha FAKECALL (Heimdall)######
 47.242.149.4
 47.242.20.245
 47.242.38.176
