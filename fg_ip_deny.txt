@@ -1,3 +1,11 @@
+###### Campanha BlackByte (Heimdall)######
+myvisit.alteksecurity.org
+temp.sh
+45.9.148.114
+185.93.6.31
+109.206.243.59
+185.225.73.244
+
 ###### Campanha Rhadamanthys (Heimdall)######
 198.135.48.191
 139.99.17.158
