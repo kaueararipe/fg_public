@@ -1,3 +1,8 @@
+###### Campanha Glutton (Heimdall)######
+cc.thinkphp1.com
+156.251.163.120
+172.247.127.210
+
 ###### Campanha BotnetMatrix (Heimdall)######
 upon-scheduled.at.ply.gg 
 209.25.142.211
