@@ -2,8 +2,6 @@
 androidscamru-default-rtdb.firebaseio.com
 rustore-apk.github.io/telegram_premium
 
-
-
 ###### Campanha Ficora & Capsaicin (Heimdall)######
 185.191.126.213
 185.191.126.248
