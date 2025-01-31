@@ -394,6 +394,7 @@ ru.coziest.lol
 
 ###### Campanha Nova Botnet (Heimdall)######
 hailcocks.ru
+wifixs.spitzrenigh.com
 kingstonwikkerink.dyn
 catvision.dyn
 shitrocket.dyn
