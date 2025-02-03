@@ -342,6 +342,8 @@ vtgphb.pinkeosemrabo.com
 udvhil.pinkeosemrabo.com
 lesxah.pinkeosemrabo.com
 vcfeib.pinkeosemrabo.com
+172.67.165.72
+104.21.57.182
 
 ###### Campanha STAC5143 e STAC5777 (Heimdall)######
 207.90.238.99
