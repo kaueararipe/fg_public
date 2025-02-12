@@ -1,3 +1,11 @@
+###### Campanha SparkCat (Heimdall)######
+api.firebaseo.com
+api.aliyung.com
+api.aliyung.org
+uploads.99ai.world
+socket.99ai.world
+api.googleapps.top
+
 ###### Campanha AsyncRAT (Heimdall)######
 inventory-card-thumbzilla-ip.trycloudflare.com/DE/
 mercy-synopsis-notify-motels.trycloudflare.com/ma.zip
