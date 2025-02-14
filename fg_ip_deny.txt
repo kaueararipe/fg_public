@@ -1,3 +1,7 @@
+###### Campanha Kimsuky (Heimdall)######
+216.219.87.41
+74.50.94.175
+
 ###### Campanha SparkCat (Heimdall)######
 api.firebaseo.com
 api.aliyung.com
