@@ -1,3 +1,9 @@
+###### Report Heimdall CVE Sharepoint ######
+
+96.9.125.147
+107.191.58.76
+104.238.159.149
+
 ###### Campanha PHANTOM ENIGMA (Heimdall) ######
 atual2025.com
 clientepj.com
