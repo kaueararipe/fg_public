@@ -1,3 +1,7 @@
+###### Campanha Chaya ######
+x86assembly.xyz
+198.185.159.144
+
 ###### Campanha ToolShell ######
 
 96.9.125.147
