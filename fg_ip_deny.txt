@@ -1,3 +1,6 @@
+###### Incidente Cortex ID-5608 ######
+doshorake.com
+
 ###### Campanha Chaya ######
 x86assembly.xyz
 198.185.159.144
