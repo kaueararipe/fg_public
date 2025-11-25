@@ -1,3 +1,11 @@
+###### Campanha WhatsWorm (Heimdall) ######
+013net.com.br
+api.ipify.org
+empautlipa.com
+bootstrap.pypa.io
+coffe-estilo.com
+sorvetenopote.com
+
 ###### Campanha WhatsApp Phishing (Heimdall) ######
 varegjopeaks.com
 
