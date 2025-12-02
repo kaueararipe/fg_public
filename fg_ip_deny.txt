@@ -1,3 +1,6 @@
+###### Campanha ShadyPanda  (Threat News) ######
+api.extensionplay.com
+
 ###### Campanha WhatsWorm (Heimdall) ######
 013net.com.br
 api.ipify.org
