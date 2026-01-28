@@ -1,3 +1,7 @@
+###### JurassicPwn  (Heimdall) ######
+140.99.164.101
+140.99.164.247
+
 ###### React2Shell  (Heimdall) ######
 46.36.37.85
 reactcdn.windowserrorapis.com
