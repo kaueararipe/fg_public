@@ -1,3 +1,17 @@
+###### RedAlert (Heimdall) ######
+www.shirideitch.com
+api.ra-backup.com
+codefusiontech.org
+api.ra-backup.com
+ra-backup.com
+uppdatefile.com
+162.0.230.185
+216.45.58.148
+209.74.87.67
+143.198.5.41
+209.74.87.100
+172.81.60.97
+
 ###### TGR-STA-1030  (Heimdall) ######
 abwxjp5.me
 brackusi0n.live
