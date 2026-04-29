@@ -1,3 +1,7 @@
+###### React2Shell (Heimdall) ######
+91.224.92.177
+94.156.152.67
+
 ###### RedAlert (Heimdall) ######
 www.shirideitch.com
 api.ra-backup.com
